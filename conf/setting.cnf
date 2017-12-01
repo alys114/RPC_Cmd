@@ -1,0 +1,12 @@
+[10.0.0.90]
+ip = 10.0.0.90
+port = 22
+user = root
+password = 123456
+
+
+[10.0.0.88]
+ip = 10.0.0.88
+port = 22
+user = root
+password = 123456
